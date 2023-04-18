@@ -24,7 +24,7 @@ In short, the app encodes and decodes text provided by the user. It was made usi
 </ul>
 
 <h2 id="Website">Website</h2>
-Get a full view of the project <a href="https://caviar9045.github.io/ONE-Encode-Decode-Challenge/">here</a>.
+Get a full view of the project <a href="https://caviar9045.github.io/ONE-Encode-Decode-Challenge/" target="_blank">here</a>.
 
 <h2 id="Features">Features</h2>
 <ul>
